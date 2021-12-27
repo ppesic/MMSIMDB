@@ -1,0 +1,4 @@
+export const GET_FIRST_PAGE_MOVIE = 'GET_FIRST_PAGE_MOVIE';
+export const GET_PAGE_MOVIE = 'GET_PAGE_MOVIE';
+export const GET_MOVIE = 'GET_MOVIE';
+export const ADD_MOVIERATING = 'ADD_MOVIERATING';
